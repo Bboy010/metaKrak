@@ -1,5 +1,6 @@
-# metaKrak
-This repository helps you master metagenomics with Kraken2.
+# metaKrak 
+This repository will help you master metagenomics with Kraken2.
+![training output](https://github.com/user-attachments/assets/76c156d6-157f-4cad-a547-a77e28588ec7)
 
 
 ## official training site [link](https://ugene.net/metagenomic-classification-with-kraken/)
@@ -13,7 +14,7 @@ This repository helps you master metagenomics with Kraken2.
 
 # Metagenomic with Kraken
 ## III. install your working environment
-![tree metakrak](https://github.com/user-attachments/assets/2d70eba7-f09a-4972-95eb-75b3be24698b)
+![tree metakrak](https://github.com/user-attachments/assets/96fc18b1-b1ed-4978-934b-27d9d4911714)
 - Start with conda [conda installation](https://github.com/Bboy010/eDNA-training-24/tree/main)
 1. download the working directory
 ```bash
