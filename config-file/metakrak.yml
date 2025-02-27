@@ -1,4 +1,4 @@
-name: metagenomics
+name: metakrak
 channels:
   - conda-forge
   - bioconda
