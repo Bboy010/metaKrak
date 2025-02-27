@@ -89,7 +89,7 @@ ls # TruSeq3-PE.fa  data  minikraken2_v2_8GB_201904_UPDATE
 
 ``` bash
 read1=data/lib3.R1_001.fastq.gz
-read2=data/lib3.R2_001.fastq.g
+read2=data/lib3.R2_001.fastq.gz
 ````
 
 11. Run Trimmomatic 🪚
